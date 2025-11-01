@@ -1,5 +1,5 @@
 
-![Logo](https://raw.githubusercontent.com/SchoolIzBoring/Unblocked-Websites/main/logo.png)
+![Logo][(https://github.com/RantMasterRBX/epik-cool-repo/blob/main/logo.png)]
 
 
 # Unblocked Websites
@@ -9,12 +9,13 @@ Unblocked Websites is an Open Source tool Website for school that includes games
 
 
 ## Demo
-schoolizboring.github.io/Unblocked-Websites/
+[schoolizboring.github.io/Unblocked-Websites/](https://rantmasterrbx.github.io/epik-cool-repo/)
 
 
 ## Authors
 
 - [@SchoolIzBoring](https://github.com/SchoolIzBoring)
+- [@RantMasterRBX](https://github.com/RantMasterRBX)
 
 
 ## License
